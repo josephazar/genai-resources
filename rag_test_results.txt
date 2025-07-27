@@ -1,0 +1,437 @@
+RAG System Test Results
+Generated on: 2025-07-28 00:36:57
+================================================================================
+
+Total Questions: 15
+Successful: 15
+Failed: 0
+
+================================================================================
+
+Question 1: What is the employee resignation policy?
+----------------------------------------
+Answer: The employee resignation policy outlines the guidelines for handling resignations within the company. It applies to all employees and defines a resignation as a voluntary notification to HR or a manager that an employee will stop working for the company. Key points of the policy include:
+
+1. **Notice of Resignation**: Employees must provide advance notice before resigning, with the required notice period depending on their length of employment:
+   - 1 month for less than 3 years
+   - 2 months for 3 to 6 years
+   - 3 months for 6 to 12 years
+   - 4 months for more than 12 years
+
+   Resignations must be submitted through the designated company platform or via an official email to the direct manager and HR.
+
+2. **Exit Interviews**: The HR department will organize exit interviews to gather feedback from departing employees, which can help improve company practices.
+
+3. **Rehire Eligibility**: Employees who leave on good terms may be eligible for rehire, but their status may vary based on the time elapsed since their departure.
+
+4. **Payment and Unused Leave**: Employees will receive payment for all days worked, but unused paid leave will not be compensated. They must return all company-owned equipment and delete confidential files from personal devices on their last day.
+
+5. **Expense Reimbursement**: Employees who have relocated or studied at the company's expense may need to reimburse the company if they resign before fulfilling their contractual obligations.
+
+Overall, the policy aims to ensure a smooth transition during resignations and maintain workplace efficiency.
+
+Sources: Employee Handbook.pdf, Employee Resignation Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 2: How does the performance appraisal process work?
+----------------------------------------
+Answer: The performance appraisal process at Exquitech involves several key steps:
+
+1. **Annual Appraisal**: Conducted once a year, typically in Q4, this comprehensive evaluation covers the entire year's performance and reflects the official overall employee performance for that year.
+
+2. **Mid-Year Review**: Conducted midway through the appraisal cycle, typically in Q2, this review focuses on progress toward goals, ongoing feedback, and adjustments. It monitors the progress of employee objectives and prepares for the end-of-year performance review.
+
+3. **Setting Objectives**: All Exquitech team members are required to set their organizational and personal objectives and discuss them with their managers by mid-December for the upcoming year. These objectives must be set in a SMART way (Specific, Measurable, Achievable, Relevant, Timebound) and are then approved by management.
+
+4. **Self-Assessment**: Employees complete a self-assessment form reflecting on their achievements, challenges, and areas for improvement over the appraisal period.
+
+5. **Manager Assessment**: Managers evaluate employee performance based on predefined criteria, including job responsibilities, goals, competencies, and overall contribution. They also collect feedback from peers and subordinates.
+
+6. **Formal Meeting**: A formal meeting is held between the employee and their manager to discuss the self-assessment, manager assessment, and any 360-degree feedback. This discussion includes achievements, areas for improvement, career aspirations, and goal setting for the next appraisal period.
+
+7. **Goal Setting and Development Plan**: A development plan is created to support the employee's growth and address any areas for improvement.
+
+8. **Documentation and Sign-Off**: All assessments, feedback, and agreed-upon goals and development plans are documented in the performance appraisal system. Both the employee and manager electronically submit the appraisal forms in the system.
+
+9. **Rewards and Recognitions**: Performance ratings may lead to eligibility for performance bonuses and salary adjustments, subject to management approval. However, employees are not eligible for promotions, bonuses, or adjustments after the mid-year review unless a valid exception is provided and approved.
+
+Overall, the process is designed to assist team members in their jobs, ensure they have the right knowledge and skills, and support their personal development.
+
+Sources: Performance Appraisal Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 3: What are the expense claim procedures?
+----------------------------------------
+Answer: The expense claim procedures outlined in the Expense Claim Policy include the following steps:
+
+1. **Submission of Claims**: Employees must submit accurate claims and documentation for business-related expenses. Claims must be submitted within 30 days past the invoice date.
+
+2. **Differentiation of Expenses**: Employees should clearly differentiate between personal and business-related expenses, ensuring that only legitimate business-related costs are claimed.
+
+3. **Receipt Requirements**: Clear receipts and invoices must be submitted, including essential details such as date, amount, vendor name, and description. Receipts and invoices are mandatory for all expenses except per diem allowances.
+
+4. **Expense Categories**: Each expense must be properly categorized under the appropriate expense category (e.g., travel, training).
+
+5. **Approval Process**: Expenses that are not budgeted for in the 2024 budget will only be approved if adequately justified; otherwise, they will be declined.
+
+6. **Settlement Method**: By default, reimbursement will be processed through payroll. Specific reimbursement requests can be directed to the accounting department.
+
+7. **Reimbursement Timing**: Expenses submitted and approved by the 20th of a specific month will be reimbursed in the same month. Submissions after the 20th will be processed for reimbursement in the subsequent month.
+
+8. **Mission Creation**: For work-related trips or events, it is mandatory to create a Mission that outlines the budget required for the mission.
+
+These procedures aim to ensure transparency and efficiency in the reimbursement process for business-related expenses.
+
+Sources: Expense claim policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 4: What is the probation period policy?
+----------------------------------------
+Answer: The probation period policy requires a probationary period of three to six months for new team members, based on the country Labor Law. This period is used to review the employee's performance and suitability for the job. During this time, the manager evaluates the employee's performance against established standards and objectives, provides feedback, and conducts performance evaluations. At the end of the probation period, the manager should have confidence that the employee meets or exceeds performance standards, with an overall rating of greater than 80%. If the employee's performance is unsatisfactory, the company has the right to terminate the employment contract or extend the probation period.
+
+Sources: Probation Period Policy.pdf, Employee Handbook.pdf, Recruitment Policy.pdf, Onboarding and Induction Process.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 5: How does the 360 feedback system work?
+----------------------------------------
+Answer: The 360 feedback system works as follows:
+
+1. **Initiation**: HR schedules and manages the 360-feedback process annually and informs employees in advance about the timeline and purpose.
+
+2. **Participants**: Feedback is collected from various sources, including direct supervisors, peers, subordinates (if applicable), and the employee themselves can request feedback.
+
+3. **Feedback Collection**: HR uses a secure online tool to collect feedback anonymously. The feedback form includes categories such as communication skills, team collaboration, interpersonal skills, problem solving, decision making, and leadership abilities (if applicable), along with open-ended questions for detailed input.
+
+4. **Confidentiality**: All feedback is anonymous, and HR aggregates and presents the feedback without identifying the contributors.
+
+5. **Feedback Review**: The employee and their manager review the aggregated feedback in a one-on-one meeting, during which a personal development plan (PDP) is created based on the findings.
+
+6. **Action Plan**: Employees set measurable goals for improvement based on the feedback received.
+
+7. **Monitoring and Adjustment**: HR monitors the process for fairness and effectiveness, and follow-ups are scheduled to assess progress.
+
+The overall goal of the 360 feedback system is to foster a culture of mutual respect and continuous learning, enabling employees to thrive and align with organizational objectives.
+
+Sources: 360 Feedback Policy.pdf, Performance Appraisal Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 6: What are the transportation claim policies?
+----------------------------------------
+Answer: The transportation claim policies are as follows:
+
+1. **Commute to/from the Office**: Transportation between an employee's home and the office is covered within their salary and is not eligible for reimbursement.
+
+2. **Eligibility Beyond 20 km Radius from Office**: 
+   - For employees (excluding salespeople), any client visit within a 20 km radius of the office is not eligible for transportation claims if commuting from home.
+   - For trips exceeding a 20 km radius from the office, employees (excluding salespeople) are eligible to claim transportation costs based on the actual kilometers traveled.
+   - Expense claims may be declined if a more cost-effective transportation method was available but not used.
+
+3. **Salespeople Claims**: Salespeople who travel from abroad are eligible to claim transportation expenses, as per the travel policy, regardless of the 20 km radius limit.
+
+4. **Inclusive Allowances**: The reimbursement per kilometer is set to cover fuel and maintenance costs. Claims for repair or maintenance costs will not be accepted.
+
+5. **Price Per Kilometer by Region**: The following rates per kilometer apply to cover fuel and maintenance expenses:
+   - UAE: AED 1 per km
+   - KSA: SAR 1 per km
+   - Lebanon: USD 0.25 per km
+   - UK: GBP 0.45 per mile for the first 10,000 miles and GBP 0.25 thereafter
+   - US: USD 0.3 per km
+   These rates are subject to periodic review and adjustments based on fuel price fluctuations and regional economic conditions.
+
+6. **General Guidelines**: 
+   - Transportation from and to the office is not to be claimed separately.
+   - Employees, excluding salespeople, can claim trips from and to the office if the distance exceeds a 20 km radius based on kilometers traveled.
+   - Allowance for repair and maintenance is included in the price per km under fuel expenses and will not be claimed separately.
+
+7. **Expense Submission**: Clear receipts and invoices are required for all expenses except per diem allowances, and they should align with the information in the system. Handwritten invoices or those not received for local taxi services will not be accepted.
+
+These policies provide a framework for employees to claim transportation expenses while ensuring that personal commuting costs are not reimbursed.
+
+Sources: Transportation claim policy.pdf, Expense claim policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 7: Explain the sales commission structure
+----------------------------------------
+Answer: The sales commission structure is outlined in the Sales Commission Policy and includes the following key components:
+
+1. **Eligibility**: All salespeople assigned sales targets are eligible for commissions, which are set at the end of the previous fiscal year.
+
+2. **Target and Commission Product Categories**: Sales targets are established for various product categories, including services (e.g., Business Apps Services, IT and Cloud Services) and licenses (e.g., Microsoft and Dynamics Licenses).
+
+3. **Commission Rates**: Commission rates are predefined for each product category. For example, the commission rate for Hardware & Software sales is fixed at 2%. 
+
+4. **Commission Calculation**: Commissions are calculated based on the invoices of sales generated by each salesperson. Calculations occur quarterly and are subject to management review and approval. The distribution of team sales commissions considers factors such as individual performance and efforts invested in team accounts.
+
+5. **Payment of Commissions**: Commissions are paid out upon the collection or settlement of the full invoice. Payments are processed in the month following the quarter's end, in line with the regular payroll schedule. Any outstanding commission will be disbursed in the quarter when invoices are fully settled.
+
+6. **Additional Commissions**: 
+   - Senior specialists receive an additional commission based on the actual sales percentage of the target achieved, unless they are the primary salesperson for the opportunity.
+   - Collaboration between salespeople and specialists who log at least 2 hours on the CRM earns them additional commissions.
+   - Account managers earn an additional 0.25% commission for P1 and P2 accounts with high Customer Satisfaction (CSAT) scores, provided a certain percentage of customers have completed the survey.
+
+Overall, the commission structure is designed to incentivize sales performance while considering individual contributions and collaboration within the sales team.
+
+Sources: Sales Commission Policy 002.pdf, Employee Handbook.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 8: What is the procedure for job codes and time logging?
+----------------------------------------
+Answer: The procedure for job codes and time logging includes the following steps:
+
+1. **Use of Job Codes**: Employees are required to use the job codes created and maintained by the Operations Team for recording time. Each task or project must be logged under its respective job code to ensure accurate tracking and billing.
+
+2. **Recording Time**: Employees must record all productive hours worked on assigned projects. Only time spent on activities directly related to the project should be logged. Non-productive time, such as breaks or personal tasks, should not be recorded.
+
+3. **Daily Logging**: Employees should log their time daily to avoid forgetting and miscalculating the time spent. All 8 hours of work per day should be accurately recorded using the relevant job codes.
+
+4. **Non-Chargeable Time**: Employees must exclude non-chargeable time, such as lunch breaks and other non-working intervals, from their timesheets.
+
+5. **Reporting Missing Job Codes**: If a task or project lacks a job code, employees must promptly inform the Operations Team, which will create and communicate the necessary job code. Employees should not perform tasks without an agreement with the client and the relevant job code.
+
+6. **Unit Recording**: Employees must record the unit per hour of work completed in addition to the time spent, consulting with their manager to confirm the appropriate unit rate.
+
+7. **Compliance and Monitoring**: The Operations Team will periodically review timesheets to ensure compliance with the policy, addressing any discrepancies or issues with the respective employee.
+
+8. **Enforcement**: Non-compliance with the policy may result in corrective actions, including additional training or disciplinary measures.
+
+9. **Contact for Clarifications**: For questions or clarifications regarding the policy, employees can contact the Finance Team or the Operations Team as specified in the policy document. 
+
+This procedure aims to ensure accurate and efficient recording of time spent on projects, maintain an accurate utilization rate, and ensure correct use of job codes for tracking and billing accuracy.
+
+Sources: Job Codes and Time Logging Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 9: What happens during employee onboarding?
+----------------------------------------
+Answer: During employee onboarding, the following activities take place:
+
+1. **Pre-Onboarding (Within 2 weeks from starting)**:
+   - The HR department sends new hires a welcome note outlining benefits and company policies.
+   - Preboarding and onboarding tasks are initiated through the HR System (HREX).
+   - The HR department sends the offer letter and employment contract for review and signature.
+   - HR prepares the first week onboarding agenda.
+   - A welcome package is sent, including the Handbook, first week agenda, and NDA.
+   - A welcome note is sent.
+   - Requests are made for IT equipment and the creation of a user account and access to necessary systems.
+
+2. **Onboarding (Week One)**:
+   - New employees receive an overview of the company history, structure, and operations, along with the names of key people.
+   - Delivery and handover of IT equipment, username, access, and other related items occur.
+   - Administrative setup is completed, including taxation forms and banking processes.
+   - Induction on Data Privacy & Security related to company policy and guidelines is provided.
+
+Overall, the onboarding process aims to help new joiners integrate effectively into their roles and the organization.
+
+Sources: Onboarding and Induction Process.pdf, Recruitment Policy.pdf, Job Codes and Time Logging Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 10: What constitutes misconduct according to the policy?
+----------------------------------------
+Answer: According to the policy, the following actions constitute misconduct:
+
+1. Unjustified lateness in reporting to work.
+2. Conflicts due to religious or political disputes.
+3. Unprofessional behavior with co-workers and customers.
+4. Not reaching preset goals, objectives, and deadlines.
+5. Personal use of company equipment and materials without authorization.
+6. Failure to cooperate with other team members and failure to have team spirit.
+7. Disorderly conduct such as shouting or running while on duty.
+8. Causing disturbance through screaming and shouting along with putting music on high volume.
+9. Failure to report any accidents or injuries sustained while on duty.
+10. Continuous involvement in any political or religious dispute or conflict.
+11. Sexual harassment and all kinds of harassment, and any abuse of authority at all levels.
+12. Involvement in any conflict showing disrespect or physical violence to customers or team members.
+13. Theft, falsification, information leakage, or confidentiality violation.
+14. Failure to comply with company procedures relating to absence from work.
+15. Unjustified absence from work without prior approval.
+16. Non-compliance with established health, safety, and fire regulations.
+17. Failure to report any breach of health, safety, and fire regulations.
+18. Smoking in areas other than those designated for that purpose.
+19. Misuse of company property or equipment.
+20. Refusing to comply with the security regulations of the company.
+21. Abuse of company's assets and equipment.
+
+Sources: Misconduct Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 11: How does the PIP (Performance Improvement Plan) process work?
+----------------------------------------
+Answer: The PIP (Performance Improvement Plan) process works as follows:
+
+1. **Eligibility**: Employees identified as needing significant improvement during their annual performance appraisal are eligible for a PIP.
+
+2. **Implementation**: The PIP is introduced to employees rated "Below Expectations" or "Needs Improvement." It specifies clear performance goals, timelines, and resources for improvement.
+
+3. **Duration**: The PIP period lasts between 30 to 60 days, depending on the nature of the goals.
+
+4. **Monitoring**: Regular feedback sessions are conducted (weekly or bi-weekly), and progress is reviewed by the manager and HR.
+
+5. **Outcome**: At the end of the PIP period, there are three possible outcomes:
+   - **Successful Completion**: The employee exits the PIP and continues in their role.
+   - **Partial Success**: Further development or extended monitoring is required.
+   - **Unsuccessful Completion**: The employee may face reassignment, demotion, or termination.
+
+6. **Procedure**:
+   - **Performance Appraisal Review**: Conduct an annual performance review to identify employees who fall below the performance benchmark.
+   - **PIP Meeting**: The manager and HR meet with the employee to communicate performance gaps and expectations and provide a detailed PIP document.
+   - **Execution Phase**: The employee follows the improvement plan while the manager monitors and provides consistent feedback.
+   - **Mid-Point Review**: Evaluate progress and adjust the plan if needed.
+   - **Final Review**: Assess if goals were achieved and decide on one of the outcomes (success, partial success, or failure).
+
+Sources: Budgeting Policy.pdf, PIP Policy.pdf, 360 Feedback Policy.pdf, Performance Appraisal Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 12: What are the budgeting guidelines?
+----------------------------------------
+Answer: The budgeting guidelines include the following:
+
+1. Ensure that each budget line is allocated to the appropriate entity. If an expense relates to multiple entities, break down this expense using percentage allocation, if applicable.
+2. Monthly costs should be distributed across separate lines for each month to reflect ongoing expenses accurately.
+3. Expenses must be detailed and separated into their respective categories.
+4. Travel expenses must be itemized and separated into distinct categories: tickets, accommodation, transportation, meals, visa, and per diem.
+5. Ensure the accurate allocation of cost category and cost item.
+6. Equipment valued above $200 should be categorized as Fixed Assets (FA), while equipment with a value below $200 should be classified under Stationery & Office Supplies.
+7. Ensure all budget estimates are as accurate as possible, based on realistic assumptions and supported by available data.
+8. Provide detailed justifications for budget estimates, considering historical data, market trends, and anticipated changes in operational needs.
+
+Sources: Budgeting Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 13: What is the travel policy for employees?
+----------------------------------------
+Answer: The travel policy for employees at Exquitech includes the following key points:
+
+1. **Scope**: The policy covers all travels of team members of Exquitech.
+2. **Objectives**: It clarifies how travel should be arranged and outlines the parameters for reimbursement of ordinary, necessary, and reasonable travel expenses directly related to Exquitech business.
+3. **Travel Requests**: All travel requests must be submitted by the manager on the portal, defining a budget for the mission, which must be approved by the manager.
+4. **Expense Claims**: After the mission, employees must claim all expenses and attach related invoices.
+5. **Travel Duration**: Regional positions are expected to travel for short-term visits (not exceeding 7 days) for client visits, pre-sales, and sales activities.
+6. **Travel Insurance**: All team members traveling abroad must acquire a travel insurance policy.
+7. **Air Tickets**: Airline tickets must be booked according to company guidelines, and no open tickets will be issued. Rebooking fees are reimbursed only in emergency situations.
+8. **Per Diem Rates**: Employees are entitled to per diem rates based on their grade, with rates ranging from $70 to $90.
+9. **Reimbursement**: Employees are reimbursed for actual expenses incurred while on company business, including transport, meals, and accommodation, provided the expenditures are approved and documented.
+
+Overall, the policy emphasizes the need for proper documentation, adherence to budgetary constraints, and the necessity of travel being directly related to business activities.
+
+Sources: Expense claim policy.pdf, Employee Handbook.pdf, Travel policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 14: How does the client payment collection process work?
+----------------------------------------
+Answer: The client payment collection process works as follows:
+
+1. **Initial Payment Collection**: No project or license will be initiated without receiving the required downpayment, unless an exception is granted by management. For ongoing projects or additional licenses, work will be paused if payments are overdue, and will only resume upon confirmation of payment.
+
+2. **Payment Monitoring**: Automatic weekly payment reminders, including Statements of Account (SOA), are sent to clients with overdue balances. Client accounts are categorized based on the number of overdue days:
+   - Timely: < 15 days
+   - Intermediate: 15-30 days
+   - Moderate Concern: 30-60 days
+   - Concerned: 60-90 days
+   - High Risk: > 90 days
+
+3. **Invoice Confirmation**: The accounting team ensures that clients have received all invoices and SOAs, and that payments are correctly allocated to specific invoices.
+
+4. **Escalation Procedures**: 
+   - At 30 days overdue, a warning notice is sent to the client, and the account is flagged for potential license suspension.
+   - At 60 days overdue, a final notice is sent, and if payment remains unsettled, licenses may be suspended pending management confirmation.
+   - At 90 days overdue, legal action is initiated, the account is frozen, and any service or license renewals are paused.
+
+5. **New Project/License Authorization**: The ability to proceed with new projects or licenses depends on the client's payment status:
+   - Timely clients can proceed without delay.
+   - Intermediate clients can proceed with a clear payment plan.
+   - Moderate Concern clients require additional finance approval and a revised payment plan.
+   - Concerned clients will have new projects postponed until balances are cleared or a payment plan is adhered to.
+   - High-Risk clients cannot authorize new projects or licenses until all outstanding balances are settled.
+
+6. **Add-ons to Licenses**: Before placing an order for add-ons, any outstanding invoices must be addressed. No additional orders will be processed until open invoices are cleared or a mutually agreed payment plan is established.
+
+7. **Risk Mitigation and Communication**: Regular account reviews for moderate to high-risk clients are conducted, and there is ongoing communication between accounting and operations regarding payment status. Clients are regularly contacted about payment terms and upcoming invoices.
+
+8. **Flexibility for Strategic Clients**: Flexible payment terms may be offered to strategic clients, but these must be documented and approved by senior management.
+
+This structured approach ensures timely payment collection, accurate risk assessment, and proper escalation for non-payment cases to safeguard the company's financial health.
+
+Sources: Client Payment Collection and Risk Management Policy.pdf
+Chunks Retrieved: 5
+
+================================================================================
+
+Question 15: What are the attendance and leave policies?
+----------------------------------------
+Answer: The attendance and leave policies outlined in the provided context include the following key points:
+
+1. **Scope**: The policy applies to all regular full-time team members of EXQUITECH across all countries and entities.
+
+2. **Objectives**:
+   - Ensure timely reporting and accurate recording of absences.
+   - Manage absences and reduce unexcused absences, tardiness, and early departures.
+   - Identify patterns of employee absences.
+   - Provide a framework for granting and administering leave, including vacation days.
+
+3. **Attendance**:
+   - Operating hours are from 7:00 am to 4:00 pm or 8:00 am to 5:00 pm, Monday to Friday, with a 1-hour lunch break.
+   - Variations in schedule require approval from the Direct Manager and Human Resources Manager.
+
+4. **Absence Reporting**:
+   - Absences must be reported within 48 hours.
+   - Sickness during preapproved annual leave is considered as annual leave.
+   - Work-related accidents must be reported and documented.
+
+5. **Leave Management**:
+   - Managers are responsible for monitoring and managing sick leave fairly.
+   - Persistent patterns of absenteeism may lead to disciplinary action.
+
+6. **Paid Time Off**:
+   - Team members are granted paid days off on official holidays.
+   - Annual vacation days vary by location:
+     - Lebanon: 15 days (1.25 days/month)
+     - UAE: 22 days (1.8 days/month)
+     - KSA: 21 days (1.75 days/month)
+     - UK: 28 days (2.33 days/month)
+
+7. **Accumulated Leave**:
+   - A maximum of 8 days of annual leave can be carried forward to the next year, to be used by August 31 of the following year.
+   - Unused carried-over leave resets to 0 after this period.
+   - Upon resignation, unused annual leave will not be refunded but may be deducted from the notice period if approved.
+
+8. **Sick Leave**:
+   - Employees must inform their superior before the start of office hours if absent for medical reasons.
+   - A medical report is required for absences longer than 2 days.
+
+9. **Tardiness**:
+   - Non-justified absences can lead to deductions from leave days.
+   - Exceptional tardiness must be reported to the direct manager, and Human Resources should be notified.
+
+These policies aim to ensure a fair and organized approach to attendance and leave management within the company.
+
+Sources: Attendance & Leave Policy.pdf, Employee Handbook.pdf
+Chunks Retrieved: 5
+
+================================================================================
+

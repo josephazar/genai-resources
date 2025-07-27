@@ -1,0 +1,17 @@
+lancedb
+pandas
+langchain
+langchain-openai
+langchain-community
+openai
+azure-ai-documentintelligence
+azure-identity
+azure-core
+pypdf
+tiktoken
+sentence-transformers
+tantivy==0.20.1
+cohere
+python-dotenv
+numpy
+pyarrow
